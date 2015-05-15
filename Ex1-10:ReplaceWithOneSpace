@@ -2,8 +2,6 @@
 main()
 {
     int nc;
-    long c;
-    c=0;
     while((nc=getchar()) != EOF)
     {
         if(nc==' '||nc=='\t')
